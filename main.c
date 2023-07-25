@@ -6,7 +6,7 @@
 
 int main(void)
 {
-my_shell();
+	my_shell();
 
-return (0);
+	return (0);
 }

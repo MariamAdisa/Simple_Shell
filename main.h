@@ -22,8 +22,8 @@ extern char **environ;
 
 typedef struct list_t
 {
-char *dir;
-struct list_t *next;
+	char *dir;
+	struct list_t *next;
 } list_t;
 
 void my_shell(void);
